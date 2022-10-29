@@ -1,5 +1,5 @@
 import pygame
-
+######################Caracteristica do texto
 from dino_runner.utils.constants import SCREEN_HEIGHT, SCREEN_WIDTH
 
 FONT_COLOR = (0, 0, 0)
